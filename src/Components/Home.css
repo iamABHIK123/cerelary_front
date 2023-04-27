@@ -1,0 +1,57 @@
+.frame-4 {
+    position: absolute;
+    width: 1016px;
+    height: 84px;
+    left: 212px;
+    top: 188px;
+
+}
+
+.head-1 {
+    position: absolute;
+    width: 595px;
+    height: 50px;
+    left: 210.5px;
+    top: 0px;
+
+    font-family: 'Figtree';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.head-2 {
+    position: absolute;
+    width: 1016px;
+    height: 26px;
+    left: 0px;
+    top: 58px;
+
+    font-family: 'Figtree';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.chat-fix {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 1309px;
+    right: 0px;
+    top: 847px;
+    bottom: 0px;
+
+}

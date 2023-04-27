@@ -1,0 +1,292 @@
+.bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 1287px;
+    height: 82px;
+    left: 106px;
+    top: 404px;
+
+    background: #FFFFFF;
+    box-shadow: 296px 536px 245px rgba(21, 31, 72, 0.01), 167px 302px 207px rgba(21, 31, 72, 0.05), 74px 134px 153px rgba(21, 31, 72, 0.09), 19px 34px 84px rgba(21, 31, 72, 0.1), 0px 0px 0px rgba(21, 31, 72, 0.1);
+    border-radius: 14px;
+}
+
+
+
+.arrowicon {
+    position: absolute;
+    width: 1264px;
+    height: 52px;
+    left: 7px;
+    top: 15px;
+    background: #9747FF;
+    border-radius: 8px;
+}
+
+.vector {
+    position: absolute;
+    left: 27.78%;
+    right: 27.78%;
+    top: 33.33%;
+    bottom: 33.33%;
+
+    border: 2px solid #FFFFFF;
+
+}
+
+.part-1 {
+    position: absolute;
+    width: 327px;
+    height: 52px;
+    left: 7px;
+    top: 15px;
+
+    border-radius: 14px;
+}
+
+.t-1 {
+    position: absolute;
+    width: 122px;
+    height: 19px;
+    left: 47px;
+    top: 16.5px;
+
+    /* Title03 Semi bold */
+
+    font-family: 'Figtree';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 120%;
+    /* or 19px */
+
+
+    color: #868686;
+}
+
+.i-1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 14px;
+    top: 14px;
+
+}
+
+.ic-1 {
+    position: absolute;
+    left: 14.07%;
+    right: 14.07%;
+    top: 8.33%;
+    bottom: 8.35%;
+
+    border: 1.5px solid #868686;
+}
+
+.icc-1 {
+    position: absolute;
+    left: 37%;
+    right: 37%;
+    top: 29.96%;
+    bottom: 44.04%;
+
+    border: 1.5px solid #868686;
+}
+
+.part-2 {
+    position: absolute;
+    width: 327px;
+    height: 52px;
+    left: 339px;
+    top: 15px;
+
+    border-radius: 14px;
+}
+
+
+
+.i-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 14px;
+    top: 14px;
+}
+
+.ic-2 {
+    position: absolute;
+    left: 14.07%;
+    right: 14.07%;
+    top: 8.33%;
+    bottom: 8.35%;
+
+    border: 1.5px solid #868686;
+}
+
+.icc-2 {
+    position: absolute;
+    left: 37%;
+    right: 37%;
+    top: 29.96%;
+    bottom: 44.04%;
+
+    border: 1.5px solid #868686;
+}
+
+.t-2 {
+    position: absolute;
+    width: 161px;
+    height: 19px;
+    left: 47px;
+    top: 16.5px;
+
+    /* Title03 Semi bold */
+
+    font-family: 'Figtree';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 120%;
+    /* or 19px */
+
+
+    color: #868686;
+
+}
+
+
+.part-3 {
+    position: absolute;
+    width: 308px;
+    height: 52px;
+    left: 676px;
+    top: 15px;
+
+    border-radius: 14px;
+}
+
+.t-3 {
+    position: absolute;
+    width: 95px;
+    height: 19px;
+    left: 46px;
+    top: 16.5px;
+
+    /* Title03 Semi bold */
+
+    font-family: 'Figtree';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 120%;
+    /* or 19px */
+
+
+    color: #868686;
+}
+
+.i-3 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 13px;
+    top: 14px;
+}
+
+.ic-3 {
+    position: absolute;
+    left: 34.56%;
+    right: 34.57%;
+    top: 57.08%;
+    bottom: 30.42%;
+
+    border: 2px solid #868686;
+}
+
+.icc-3 {
+    position: absolute;
+    left: 12.5%;
+    right: 12.5%;
+    top: 8.33%;
+    bottom: 8.33%;
+
+    border: 1.5px solid #868686;
+}
+
+.part-4 {
+    position: absolute;
+    width: 211px;
+    height: 52px;
+    left: 994px;
+    top: 15px;
+
+    border-radius: 14px;
+}
+
+.t-4 {
+    position: absolute;
+    width: 36px;
+    height: 19px;
+    left: 46px;
+    top: 16.5px;
+
+    /* Title03 Semi bold */
+
+    font-family: 'Figtree';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 120%;
+    /* or 19px */
+
+
+    color: #868686;
+
+}
+
+.i-4 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 13px;
+    top: 14px;
+}
+
+.ic-4 {
+    position: absolute;
+    left: 20.83%;
+    right: 20.83%;
+    top: 8.33%;
+    bottom: 50.83%;
+
+    border: 1.5px solid #868686;
+}
+
+.icc-4 {
+    position: absolute;
+    left: 9.7%;
+    right: 9.7%;
+    top: 38.77%;
+    bottom: 8.33%;
+
+    border: 1.5px solid #868686;
+}
+
+.i-5{
+    position: absolute;
+width: 36px;
+height: 36px;
+left: 1243px;
+top: 23px;
+
+}
+
+.group-1{
+    position: absolute;
+width: 1264px;
+height: 52px;
+left: 7px;
+top: 1px;
+}

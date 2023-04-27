@@ -1,0 +1,72 @@
+.ship {
+    width: 170px;
+height: 39px;
+
+font-family: 'PP Cirka';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.logbox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 20px;
+    gap: 450px;
+    
+    position: absolute;
+    width: 1367.89px;
+    height: 48px;
+    left: 80px;
+    top: 5px
+}
+
+.login {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12.4444px 10.5556px;
+    gap: 8.89px;
+    width: 150.22px;
+    height: 48px;
+    background: #6F57E9;
+    border-radius: 12.4444px;
+}
+
+
+.learn-more {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.4444px 19.5556px;
+gap: 8.89px;
+
+width: 178.67px;
+height: 48px;
+
+border: 1.77778px solid #6F57E9;
+border-radius: 12.4444px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+   
+
+}

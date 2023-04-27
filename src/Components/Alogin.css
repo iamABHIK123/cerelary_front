@@ -1,0 +1,87 @@
+
+
+.afterlog{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 941px;
+
+position: absolute;
+width: 1345.11px;
+height: 48px;
+left: 35px;
+top: 37px;
+
+}
+
+.navbar-brand-after{
+    
+width: 170px;
+height: 39px;
+
+font-family: 'PP Cirka';
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.sub-after{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 28px;
+
+width: 234.11px;
+height: 48px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.dollar{
+    width: 48px;
+    height: 48px;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.track{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 28px;
+
+width: 158.11px;
+height: 48px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
